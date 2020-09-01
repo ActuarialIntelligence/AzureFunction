@@ -1,0 +1,13 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "DevStorage",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet"
+  },
+  "connection":
+  {
+    "testeventhubpredictive_testpolicy_EVENTHUB": "EventHubTriggerConnection",
+    "blobstoreconnection": "BlobConnection"
+  }
+}
+
